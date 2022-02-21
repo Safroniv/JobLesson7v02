@@ -8,6 +8,9 @@ namespace JobLesson07v02Part01
 {
     internal class Program
     {
+        //Урок 7 Задание 1
+        //Написать любое приложение, произвести его сборку с помощью MSBuild, 
+        //осуществить декомпиляцию с помощью dotPeek, внести правки в программный код и пересобрать приложение.
         static void Main(string[] args)
         {
             Console.WriteLine("Input b");

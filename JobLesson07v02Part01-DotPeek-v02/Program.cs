@@ -10,11 +10,10 @@ namespace JobLesson07v02Part01
 {
   internal class Program
   {
-        //сборка через dotPeek
     private static void Main(string[] args)
     {
       Console.WriteLine("Input b");
-      if (int.Parse(Console.ReadLine()) == 10)
+      if (int.Parse(Console.ReadLine()) == 12)
         Console.WriteLine("Hallo World");
       else
         Console.WriteLine("b not a");
